@@ -45,10 +45,6 @@
                  "y":418
                 }],
          "opacity":1,
-         "properties":
-            {
-             "height":"32"
-            },
          "type":"objectgroup",
          "visible":true,
          "width":20,
